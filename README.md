@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am a third year Computer Science Student. Currently looking for internships and jobs.<br>Im currently working on a making a few discord bots in using Java and JavaScript.<br>I am passionate about this field and am excited to work in it in the future.<br>Always looking to expand my knowledge and learn new programming languages and frameworks.<br>
+Hi I am a Computer Science Graduate. Currently looking for internships and jobs.<br>Im currently working on a making a few discord bots in using Java and JavaScript.<br>I am passionate about this field and am excited to work in it in the future.<br>Always looking to expand my knowledge and learn new programming languages and frameworks.<br>
 
 
 ## 🌐 Socials:
